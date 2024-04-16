@@ -1,0 +1,7 @@
+[2018-07-13T17:04:31.101] [INFO] Fracttal - Proceso de sincronización de casos con solicitudes finalizó
+[2018-07-13T17:06:08.100] [INFO] Fracttal - Proceso de sincronización de casos con solicitudes finalizó
+[2018-07-13T17:08:11.209] [INFO] Fracttal - Proceso de sincronización de casos con solicitudes finalizó
+[2018-07-13T17:11:37.452] [INFO] Fracttal - Proceso de sincronización de casos con solicitudes finalizó
+[2018-07-14T19:38:16.597] [INFO] Fracttal - Proceso de sincronización de casos con solicitudes finalizó
+[2018-08-03T15:07:34.462] [ERROR] Fracttal - No se encontraron solicitudes en el siguietne lapso de tiempo -> 2018-08-03T14:37:34-4 - 2018-08-03T15:07:34-4
+[2018-08-13T15:52:19.714] [ERROR] Fracttal - No se pudo consumir la api que retorna las WorkRequest con la siguiente url = https://app.fracttal.com/api/work_requests/since=2018-08-13T15:22:18-4&until=2018-08-13T15:52:18-4&type_date=date_status Error -> null
